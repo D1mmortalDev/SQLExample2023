@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SQLExample2023" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SQLExample2023" parent="Base.Theme.SQLExample2023" />
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar" >
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

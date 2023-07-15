@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#fdecf4</color>
+    <color name="green">#A2CAD1</color>
+    <color name="dark_pink">#d27f78</color>
+    <color name="dark_pink_2">#b76e79</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="grey2">#e0e0e0</color>
+    <color name="grey3">#bdbdbd</color>
+    <color name="grey4">#EEEEEE</color>
+    <color name="grey5">#f5f5f5</color>
+</resources>
